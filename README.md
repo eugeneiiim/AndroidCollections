@@ -1,7 +1,9 @@
 This is a straightforward port of the Google Guava library (including
 Google Collections) (http://code.google.com/p/guava-libraries) to
 Android.  __Most of the code has not yet been tested for performance
-or correctness on an Android device, so use at your own risk__.
+or correctness on an Android device, so use at your own risk__.  The
+current version of Android Collections is based on Google Guava
+release 06 (2010-07-07).
 
 How to use this library in Eclipse:
 
